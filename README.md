@@ -1,4 +1,4 @@
-<img src="saliibot.png"></img>
+<img src="saliibot.png" width="100%"></img>
 <br>
 <h1>Installation and Use</h1>
 
