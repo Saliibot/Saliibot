@@ -1,4 +1,4 @@
-<img src="github_logo.png"></img>
+<img src="saliibot.png"></img>
 <br>
 <h1>Installation and Use</h1>
 
@@ -24,18 +24,7 @@ If you are planning on using this bot for your own archives, you may want to tak
 <h1>Requirements and Dependencies</h1>
 
 Saliibot is coded on the Python platform and will require the latest version of Python and PIP to be installed as well as several libraries.
-
-On Debian systems just run this command:
-
-`sudo ./installdebian.sh`
-
-On Mac OS systems (Intel and Apple Silicon) just run this command:
-
-`sudo ./installapple.sh`
-
-On Windows systems just run:
-
-`installwindows.bat`
+All libraries required will be able to found in the `main.py` and `/src/sqlnode.py` files.
 
 <h2>To Do:</h2>
 
